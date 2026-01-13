@@ -15,7 +15,7 @@ O foco do curso é a intersecção entre o desenvolvimento de software de alta p
 | Módulo | Conteúdo Principal | Ferramentas | Status |
 | :--- | :--- | :--- | :---: |
 | **01. Fundamentos de IA Generativa** | Origem e História | Evolução | ✅ |
-| **02. Prompt Engineering** | Clean Arch, DDD e Microsserviços | Go, Docker | 🏗️ |
+| **02. Prompt Engineering** | LangChain | Python, PostgreSQL, Docker | 🏗️ |
 
 ---
 
