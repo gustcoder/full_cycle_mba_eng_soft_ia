@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 
-gemini_key = os.get_env("GEMINI_API_KEY")
+gemini_key = os.getenv("GEMINI_API_KEY")
 
 gemini = init_chat_model(
     model="gemini-2.5-flash",
